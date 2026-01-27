@@ -80,7 +80,7 @@ I'm always open to discussing **new opportunities, collaborations, or tech talks
 - **Email:** [sinamsv0@gmail.com](mailto:sinamsv0@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/sinamsv0)  
 - **GitHub:** [github.com/sinamsv](https://github.com/sinamsv)  
-- **Portfolio: SOON** []() *(optional)*
+- **Portfolio: SOON** []()
 
 ---
 ⭐ *"Code is like humor. When you have to explain it, it's bad." – Cory House*  
