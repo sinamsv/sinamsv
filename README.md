@@ -49,7 +49,7 @@ I'm a passionate **Backend-focused Software Engineer** with expertise in buildin
 - Worked on NLP projects including text classification and chatbots.  
 - Experimented with model optimization and deployment strategies.  
 
-## 📂 Featured Projects
+<!-- ## 📂 Featured Projects
 
 ### [AI-Powered API Service](https://github.com/yourusername/project-link)
 A scalable FastAPI service for serving fine-tuned Transformer models, with Dockerized deployment and monitoring.  
@@ -62,6 +62,7 @@ A full-featured e-commerce backend with payment integration, user management, an
 ### [DevOps Automation Suite](https://github.com/yourusername/project-link)  
 A collection of scripts and Docker Compose setups for automating deployment and monitoring.  
 **Tech:** Bash, Docker, GitHub Actions, Prometheus, Grafana.
+-->
 
 ## 📈 GitHub Stats  
 ![Sina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_title=true)  
@@ -76,9 +77,9 @@ A collection of scripts and Docker Compose setups for automating deployment and 
 
 ## 📫 Let's Connect
 I'm always open to discussing **new opportunities, collaborations, or tech talks**!  
-- **Email:** [your.email@example.com](mailto:sinamsv0@gmail.co)  
+- **Email:** [sinamsv0@gmail.com](mailto:sinamsv0@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/sinamsv0)  
-- **GitHub:** [github.com/yourusername](https://github.com/sinamsv)  
+- **GitHub:** [github.com/sinamsv](https://github.com/sinamsv)  
 - **Portfolio: SOON** []() *(optional)*
 
 ---
