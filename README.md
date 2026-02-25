@@ -1,86 +1,93 @@
-# 👋 Hi, I'm Sina  
-**Backend Specialist | Full-Stack Developer | DevOps Engineer**  
-*4+ Years of Experience in Software Development & 1 Year in AI*
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/sinamsv0)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:sina@unknownmsv.ir)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=web)](soon)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+# Hi there, I'm Sina 👋
+
+### Backend Specialist · Full-Stack Developer · DevOps Engineer
+
+*4+ years crafting scalable systems · 1 year deep-diving into AI/ML*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sinamsv0)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sina@unknownmsv.ir)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sinamsv)
+
+</div>
 
 ---
 
-## 🚀 About Me
-I'm a passionate **Backend-focused Software Engineer** with expertise in building scalable systems, robust APIs, and seamless full-stack applications. I thrive in challenging environments and enjoy solving complex problems with clean, efficient code. Over the past year, I've also been diving deep into **AI/ML**, working with cutting-edge models and frameworks.
+## 🧑‍💻 About Me
 
-## 🛠️ Technical Skills
+I'm a **Backend-focused Software Engineer** who loves building systems that are fast, reliable, and built to scale. My work spans from designing robust REST APIs to shipping production-ready microservices — and over the past year, I've been going deep into the world of **AI/ML**, fine-tuning large language models and exploring MLOps practices.
 
-### **Backend Development**
-- **Languages:** Python, Node.js, JavaScript  
-- **Frameworks:** Django, Flask, FastAPI, Express.js  
-- **API Design:** REST, GraphQL (optional)  
-- **Database:** PostgreSQL, MySQL, MongoDB, Redis  
+I believe clean architecture is not a luxury — it's a necessity. And I enjoy the challenge of making complex systems feel simple.
 
-### **Frontend Development**
-- HTML5, CSS3, JavaScript (ES6+)  
-- React.js, Redux, Next.js (optional)  
+---
 
-### **DevOps & Infrastructure**
-- Linux/Unix Systems  
-- Docker & Containerization  
-- CI/CD Pipelines (GitHub Actions, Jenkins, etc.)  
-- Cloud Platforms (AWS, GCP, or Azure – optional)  
-- Version Control: Git, GitHub/GitLab  
+## 🛠️ Tech Stack
 
-### **Artificial Intelligence**
-- PyTorch, Transformers, Hugging Face  
-- Unsloth for efficient fine-tuning  
-- Model deployment & MLOps basics  
+### Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
-## 💼 Work Experience
-**Software Engineer** – *4 Years*  
-- Developed and maintained high-traffic backend services using Python/Node.js.  
-- Built and deployed microservices with Docker and orchestration tools.  
-- Collaborated with frontend teams to deliver full-stack features.  
-- Implemented CI/CD pipelines, improving deployment efficiency by 40%.  
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**AI Enthusiast** – *1 Year*  
-- Fine-tuned LLMs using Unsloth and Hugging Face Transformers.  
-- Worked on NLP projects including text classification and chatbots.  
-- Experimented with model optimization and deployment strategies.  
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-<!-- ## 📂 Featured Projects
+### DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
-### [AI-Powered API Service](https://github.com/yourusername/project-link)
-A scalable FastAPI service for serving fine-tuned Transformer models, with Dockerized deployment and monitoring.  
-**Tech:** FastAPI, PyTorch, Transformers, Docker, Redis.
+### AI & Machine Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-### [E-Commerce Backend System](https://github.com/yourusername/project-link)  
-A full-featured e-commerce backend with payment integration, user management, and real-time notifications.  
-**Tech:** Django, PostgreSQL, Celery, WebSockets, JWT.
+---
 
-### [DevOps Automation Suite](https://github.com/yourusername/project-link)  
-A collection of scripts and Docker Compose setups for automating deployment and monitoring.  
-**Tech:** Bash, Docker, GitHub Actions, Prometheus, Grafana.
--->
+## 📈 GitHub Stats
 
-## 📈 GitHub Stats  
-![Sina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_title=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&langs_count=6)
+<div align="center">
 
-## 🎯 What I'm Currently Up To
-- 🔭 Working on an **AI-powered SaaS platform** with React & FastAPI.  
-- 🌱 Learning **Kubernetes** and **advanced MLOps practices**.  
-- 👯 Looking to collaborate on **open-source AI/ML tools** or **backend frameworks**.  
-- 💬 Ask me about: Backend architecture, DevOps, AI fine-tuning, or career growth!  
-- ⚡ **Fun Fact:** I can explain complex tech topics using food metaphors 🍕🤖
+![Sina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sinamsv&show_icons=true&theme=radical&hide_title=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sinamsv&layout=compact&theme=radical&hide_border=true&langs_count=6)
+
+</div>
+
+---
+
+## 🎯 Currently
+
+- 🔭 Building an **AI-powered SaaS platform** with React & FastAPI
+- 🌱 Leveling up in **Kubernetes** and **advanced MLOps**
+- 👯 Open to collaborating on **open-source AI/ML** or **backend** projects
+- 💬 Happy to talk about: backend architecture, DevOps pipelines, or LLM fine-tuning
+- ⚡ Fun fact: I explain complex tech concepts using food metaphors 🍕🤖
+
+---
 
 ## 📫 Let's Connect
-I'm always open to discussing **new opportunities, collaborations, or tech talks**!  
-- **Email:** [sinamsv0@gmail.com](mailto:sinamsv0@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/sinamsv0)  
-- **GitHub:** [github.com/sinamsv](https://github.com/sinamsv)  
-- **Portfolio: SOON** []()
+
+Whether it's a new opportunity, a collaboration idea, or just a good tech conversation — my inbox is open.
+
+- 📧 [sina@unknownmsv.ir](mailto:sina@unknownmsv.ir)
+- 💼 [linkedin.com/in/sinamsv0](https://linkedin.com/in/sinamsv0)
+- 🐙 [github.com/sinamsv](https://github.com/sinamsv)
 
 ---
-⭐ *"Code is like humor. When you have to explain it, it's bad." – Cory House*  
+
+<div align="center">
+
+*"Code is like humor. When you have to explain it, it's bad."* — Cory House
+
+</div>
