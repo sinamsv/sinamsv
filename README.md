@@ -3,7 +3,7 @@
 *4+ Years of Experience in Software Development & 1 Year in AI*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/sinamsv0)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:sinamsv0@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:sina@unknownmsv.ir)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=web)](soon)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
