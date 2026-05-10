@@ -32,6 +32,8 @@ My journey started in full-stack development, which gave me a deep appreciation 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![JAX](https://img.shields.io/badge/JAX-F37626?style=flat-square&logo=jax&logoColor=white)
+
 
 ### Backend & APIs
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
