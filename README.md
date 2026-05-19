@@ -2,9 +2,9 @@
 
 # Hi there, I'm Sina 👋
 
-### AI/ML Engineer · Backend Architect · Data Alchemist
+### 🔐 Cybersecurity Specialist · 🤖 AI/ML Engineer · 🏗️ Backend Architect
 
-*Turning raw data into intelligence, and intelligence into scalable products*
+*Securing systems, building intelligence, and turning data into scalable solutions*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sinamsv0)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sina@unknownmsv.ir)
@@ -16,15 +16,27 @@
 
 ## 🧠 About Me
 
-I'm an **AI/ML Engineer** with a solid backbone in backend engineering. My work revolves around building intelligent systems that are not just smart, but also fast, reliable, and production-ready. I thrive at the intersection of **research and engineering**, where a Jupyter Notebook turns into a robust API.
+I'm a **Cybersecurity Specialist** and **AI/ML Engineer** with a strong foundation in backend architecture. My expertise spans two critical domains:
 
-My journey started in full-stack development, which gave me a deep appreciation for system design. Now, I channel that knowledge into architecting **end-to-end AI solutions** — from data mining and model training to deploying scalable microservices.
+**🔐 Cybersecurity:** I specialize in securing systems, conducting penetration testing, vulnerability assessments, and implementing robust security architectures. From network security to application hardening, I ensure systems are resilient against evolving threats.
+
+**🤖 AI/ML Engineering:** I build intelligent systems that are not just smart, but also fast, reliable, and production-ready. My work bridges the gap between research and engineering — transforming Jupyter Notebooks into robust, scalable APIs.
+
+My journey started in full-stack development, which gave me a holistic view of system design. Now, I channel that knowledge into architecting **secure, end-to-end AI solutions** — from data mining and model training to deploying hardened microservices.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Core AI/ML & Data Science
+### 🔐 Cybersecurity & Security Tools
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
+
+### 🤖 AI/ML & Data Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -34,14 +46,13 @@ My journey started in full-stack development, which gave me a deep appreciation 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![JAX](https://img.shields.io/badge/JAX-F37626?style=flat-square&logo=jax&logoColor=white)
 
-
-### Backend & APIs
+### 🏗️ Backend & APIs
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-### Data & Infrastructure
+### 🗄️ Data & Infrastructure
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
@@ -49,7 +60,7 @@ My journey started in full-stack development, which gave me a deep appreciation 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
-> **🗂️ From the Past:** *Formerly deep in Frontend (React/Next.js), now happily focused on the backend-of-the-backend: AI infrastructure.*
+> **🗂️ From the Past:** *Formerly deep in Frontend (React/Next.js), now happily focused on security hardening and AI infrastructure.*
 
 ---
 
@@ -66,17 +77,36 @@ My journey started in full-stack development, which gave me a deep appreciation 
 
 ## 🎯 Currently
 
+- 🔐 Conducting **penetration testing** and security audits for web applications
 - 🔭 Building an **LLM-powered analytics tool** with FastAPI and PyTorch
-- 🌱 Deepening expertise in **Model Serving**, **Kubernetes**, and **MLOps best practices**
-- 👯 Open to collaborating on **open-source AI/ML** projects, especially around NLP or Data Mining
-- 💬 Happy to discuss: model fine-tuning strategies, building AI APIs, or the future of MLOps
-- ⚡ Fun fact: I explain complex tech concepts using food metaphors 🍕🤖
+- 🌱 Deepening expertise in **Secure MLOps**, **Kubernetes**, and **Zero Trust Architecture**
+- 👯 Open to collaborating on **cybersecurity research** and **open-source AI/ML** projects
+- 💬 Happy to discuss: penetration testing, secure API design, model fine-tuning, or AI security
+- ⚡ Fun fact: I explain complex tech concepts using food metaphors 🍕🤖🔐
+
+---
+
+## 🏆 Expertise Highlights
+
+### 🔐 Cybersecurity
+- Penetration Testing & Vulnerability Assessment
+- Web Application Security (OWASP Top 10)
+- Network Security & Traffic Analysis
+- Security Architecture & Threat Modeling
+- Incident Response & Forensics
+
+### 🤖 AI/ML Engineering
+- Deep Learning (NLP, Computer Vision)
+- Model Training, Fine-tuning & Optimization
+- Production ML Systems & Model Serving
+- Data Mining & Feature Engineering
+- MLOps & CI/CD for ML
 
 ---
 
 ## 📫 Let's Connect
 
-Let's talk about AI, backend architectures, or how to make your data work for you.
+Let's talk about cybersecurity, AI, backend architectures, or how to build secure intelligent systems.
 
 - 📧 [sina@unknownmsv.ir](mailto:sina@unknownmsv.ir)
 - 💼 [linkedin.com/in/sinamsv0](https://linkedin.com/in/sinamsv0)
@@ -86,6 +116,6 @@ Let's talk about AI, backend architectures, or how to make your data work for yo
 
 <div align="center">
 
-*"AI is the new electricity. I'm just here to wire the house."* ⚡️🤖
+*"Security is not a product, but a process. AI is not magic, but mathematics. I work at the intersection of both."* 🔐🤖⚡
 
 </div>
